@@ -8,5 +8,5 @@ cache:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
 script:
-  - npm install
-  - npm build
+  - yarn install
+  - yarn build
