@@ -24,28 +24,9 @@ export class DefaultPage extends Component {
         <div className="app-intro">
           <h3>To get started:</h3>
           <ul>
-            <li>
-              Edit component{' '}
-              <a
-                href="http://localhost:6076/element/src%2Ffeatures%2Fhome%2FDefaultPage.js/code"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                src/features/home/DefaultPage.js
-              </a>{' '}
-              for this page.
-            </li>
-            <li>
-              Edit component{' '}
-              <a
-                href="http://localhost:6076/element/src%2Ffeatures%2Fhome%2FApp.js/code"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                src/features/home/App.js
-              </a>{' '}
-              for the root container layout.
-            </li>
+            
+                Hi My name is Tien
+           
             <li>
               To see examples, access:&nbsp;
               <Link to="/examples">/examples</Link>
